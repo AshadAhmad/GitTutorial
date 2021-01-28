@@ -7,3 +7,6 @@ This change is being made to implement the git diff command
 but git diff command compare the files that are in working directory to the files that are in staging area. Therefore I have already added this file to staging area and i am now making changes to it.
 
 Now lets look at git diff -- staged: this command allows for comparison of previous commit with staged file.
+
+
+In this file I fixed some of the bugs.
